@@ -239,4 +239,4 @@ This repository serves as the official landing page for Ecofont. The software is
 **Get the most recent version of Ecofont today!**
 
 ---
-**Last updated:** 2026-11-01 14:53:29 UTC
+**Last updated:** 2026-11-01 19:27:29 UTC
